@@ -1,1 +1,1 @@
-pring（"hello world"）
+pring（"hello hello world"）
